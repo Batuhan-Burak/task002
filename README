@@ -1,0 +1,4 @@
+Öncelikle verilen telemetry datasını programa aktardım. Daha sonra veriyi
+istenilen formata getirerek gerekli hesaplamaları yaptım. Fonksiyonlar kullanarak
+istenilen değerleri elde ettim ve en son olarak speed vs time ve steering vs time
+grafiklerini çizdirdim.
