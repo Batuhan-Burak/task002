@@ -2,3 +2,7 @@
 istenilen formata getirerek gerekli hesaplamaları yaptım. Fonksiyonlar kullanarak
 istenilen değerleri elde ettim ve en son olarak speed vs time ve steering vs time
 grafiklerini çizdirdim.
+
+AI use decleration
+
+Grafikleri çizdirme kodunda GPT den yardım aldım ayrıca pandas ve trapezoid kısımlarını da stack overflowdan baktım.
