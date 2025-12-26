@@ -1,4 +1,4 @@
-import pandas as pd  #from stack overflow
+import pandas as pd  
 import numpy as np
 
 data = pd.read_csv("data/intermediate_data.csv")
@@ -29,7 +29,7 @@ print("Steering activity:", steeringActivity)
 
 import matplotlib.pyplot as plt         #for graphs in the outputs
 
-plt.figure()                                    #both these parts are from chatgpt
+plt.figure()                                    
 plt.plot(data["t"], data["speed"])          # X axis Time, Y axis speed
 plt.xlabel("Time (s)")
 plt.ylabel("Speed (m/s)")
@@ -44,3 +44,4 @@ plt.ylabel("Steering Angle (deg)")
 plt.title("Steering vs Time")
 plt.savefig("output/steer_vs_time.png")
 plt.close()
+
